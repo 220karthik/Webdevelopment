@@ -1,0 +1,14 @@
+.typ{
+    background-color: red;
+    background-size: cover;
+    padding-left: 30px;
+    border-left: 2rem;
+    box-sizing: inherit;
+    
+}
+.app{
+    background-size: cover;
+}
+.red{
+    color: red;
+}

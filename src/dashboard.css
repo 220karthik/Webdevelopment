@@ -1,0 +1,40 @@
+.img{
+    padding-right: 110px;
+    margin-right: 300px; 
+    width: 2rem;
+    height: 6rem;
+
+
+  
+  }
+  .img1{
+    padding-right: 110px;
+    margin-left: 1000px;
+    width: 30px;
+    height: 80px;
+   
+  }
+  .h1{
+    text-align: center;
+    color:rgb(212, 81, 5);
+  }
+  
+  .wh{
+    background: url("C:\Users\HP UZER\Desktop\webdevelopment\dev\src\istockphoto-1498154292-612x612.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    height: 1000px;
+    
+   
+  }
+  .p{
+    size: 6rem;
+    color: blue;
+  }    
+  .red{
+    color:red;
+    font-size:1rem;
+  }
+
+  
